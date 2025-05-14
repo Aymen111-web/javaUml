@@ -17,8 +17,6 @@ public class Account {
   }
 
   public void transfer() {
-}
-public void mubekesit() {
-}
 
+}
 }
