@@ -22,4 +22,7 @@ public class Account {
 public void mubarek() {
 
 }
+public void Gelila(){
+  
+}
 }
